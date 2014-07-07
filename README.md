@@ -1,4 +1,4 @@
 Android-Twitter-Example
 =======================
 
-Tweet your message and image to twitter from android using your application.
+This is a Test Application for Android Twitter.
